@@ -8,7 +8,7 @@ return {
 	},
 	opts = {
 		ensure_installed = {
-			"basedpyright",
+            "pyright",
 			"gopls",
 			"html",
 			"lua_ls",
