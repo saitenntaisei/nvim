@@ -4,7 +4,7 @@ return {
 	lazy = false,
 	config = function()
 		require("lualine").setup({
-			theme = "monokai-pro",
+			theme = "dracula",
 		})
 	end,
 }
